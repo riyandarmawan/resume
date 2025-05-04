@@ -184,13 +184,13 @@
       "entity": ""
     },
     {
-      "name": "ruangbaca",
+      "name": "Ruang Baca",
       "description": "A library app to help librarian and students to borrowing and returning book at school",
       "highlights": [],
       "keywords": ["tailwind-css", "laravel", "alpine-js"],
       "startDate": "Aug 2024",
       "endDate": "Oct 2024",
-      "githubUrl": "https://github.com/riyandarmawan/ruangbaca",
+      "githubUrl": "https://github.com/riyandarmawan/ruang-baca",
       "roles": ["Owner"],
       "type": "application",
       "entity": ""
