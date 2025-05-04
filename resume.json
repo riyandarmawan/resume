@@ -1,118 +1,101 @@
 {
   "basics": {
-    "name": "Ahmad Saugi",
-    "label": "Software Engineer",
-    "image": "https://github.com/zuramai/resume/blob/main/src/images/photo.jpg?raw=true",
-    "email": "saugi.dev@gmail.com",
-    "url": "https://saugi.me",
-    "summary": "My name is Ahmad Saugi, a bachelor of computer science student. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in experience, architecture, and code quality of the things I build.\n\nI am also an open-source enthusiast and maintainer. I love how collaboration and knowledge sharing happens through open-source and I am happy to see what I do could eventually feedback to the community and industry.",
+    "name": "Riyan Darmawan",
+    "label": "Fullstack Developer",
+    "image": "https://github.com/riyandarmawan/resume/blob/main/src/images/photo.jpg?raw=true",
+    "email": "riyandarmawan042@gmail.com",
+    "url": "https://riyandarmawan.vercel.app",
+    "summary": "Full-stack developer with 1 year of hands-on experience in building responsive and dynamic web applications. Proficient in modern technologies including Laravel, Tailwind CSS, Alpine.js, Node.js, React, Next.js, and NestJS, with strong database knowledge spanning MongoDB, PostgreSQL, MySQL, and SQLite. Contributed to the development of a company profile website at PT. Pratama Solusi Teknologi. Passionate about crafting clean, efficient code and continuously learning emerging web technologies to solve real-world problems.",
     "location": {
       "countryCode": "ID",
       "region": "Indonesia"
     },
     "profiles": [
       {
-        "text": "zuramai",
+        "text": "riyandarmawan",
         "network": "github",
-        "username": "zuramai",
-        "url": "https://github.com/zuramai"
+        "username": "riyandarmawan",
+        "url": "https://github.com/riyandarmawan"
       },
       {
-        "text": "https://linkedin.com/in/ahmad-saugi",
+        "text": "https://linkedin.com/in/riyandarmawan",
         "network": "linkedin",
-        "username": "ahmad-saugi",
-        "url": "https://linkedin.com/in/ahmad-saugi"
+        "username": "riyandarmawan",
+        "url": "https://linkedin.com/in/riyandarmawan"
       },
       {
-        "text": "asawgi",
+        "text": "riyandarmawan",
         "network": "instagram",
-        "username": "asawgi",
-        "url": "https://instagram.com/asawgi"
+        "username": "riyandarmawan",
+        "url": "https://instagram.com/riyandarmawan"
       },
       {
-        "text": "saugi.me",
+        "text": "riyandarmawan.vercel.app",
         "network": "portfolio",
-        "username": "saugi.me",
-        "url": "https://saugi.me"
+        "username": "riyandarmawan.vercel.app",
+        "url": "https://riyandarmawan.vercel.app"
       }
     ]
   },
   "work": [
     {
-      "name": "Open Source",
-      "position": "OSS Developer",
-      "url": "https://github.com/zuramai",
-      "startDate": "Apr 2020",
-      "endDate": "Present",
-      "summary": "",
-      "location": "Github",
-      "highlights": [
-        "Received 3000+ stars on personal projects.",
-        "Mantaining numerous projects on Github",
-        "Actively contribute to the open source community",
-        "Main tech stacks: Vue, React, Nuxt, Next.js, TypeScript, Rust"
-      ]
-    },
-    {
-      "name": "PT Solusi Intek Indonesia",
+      "name": "PT. Pratama Solusi Teknologi",
       "position": "Web Developer Intern",
-      "url": "https://intek.co.id/",
-      "startDate": "Jan 2019",
-      "endDate": "Apr 2019",
+      "url": "https://pratamatechsolution.co.id/",
+      "startDate": "Oct 2023",
+      "endDate": "Dec 2023",
       "summary": "",
-      "location": "Bekasi, Indonesia",
+      "location": "Purwakarta, Indonesia",
       "highlights": [
-        "Developed a web application (WhatsappBot App) with Python Flask",
-        "Developed a fullstack face recognition app for school",
-        "Tech stacks:  Python, Laravel, Vue, Golang, MongoDB, PostgreSQL, and Redis"
+        "Developed a responsive and user-friendly company profile website, enhancing brand visibility and user engagement.",
+        "Implemented key features including blog pages, contact forms, and a secure authentication system to improve user interaction and accessibility.",
+        "Designed an intuitive dashboard interface that streamlined content management for internal stakeholders.",
+        "Integrated mobile-first responsive design principles, ensuring optimal functionality across devices and increasing mobile usability.",
+        "Main tech stacks: CodeIgniter 4, Bootstrap"
       ]
     }
   ],
   "education": [
     {
-      "institution": "Binus University",
-      "url": "https://binus.ac.id/",
-      "area": "Computer Science",
-      "studyType": "Bachelor of Science",
-      "startDate": "2020",
-      "endDate": "2024",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "SMKN 10 Jakarta",
-      "url": "https://binus.ac.id/",
+      "institution": "SMKS Bina Kerja Purwakarta",
+      "url": "https://smkbinakerjapwk.sch.id/",
       "area": "Software Engineering",
       "studyType": "Vocational High School",
-      "startDate": "2017",
-      "endDate": "2020",
-      "score": "",
+      "startDate": "2022",
+      "endDate": "2025",
+      "score": "87.22 / 100",
       "courses": []
     }
   ],
   "volunteer": [],
   "awards": [
     {
-      "title": "2nd Place in WorldSkills ASEAN Singapore 2023 Web Technologies",
-      "date": "Jul 2023",
-      "awarder": "WorldSkills International",
+      "title": "Top 24 in WPU CodeHero 2024",
+      "date": "Dec 2024",
+      "awarder": "Web Progamming Unpas",
       "highlights": [
-        "Speedtest Module: complete several small task (CSS animation, PHP calendar, etc)",
-        "CMS Wordpress Module: create theme (recipe website) and rating plugin in 3 hours",
-        "Server-side Module: create football tournament website (with matchmaking algorithm)",
-        "Client-side Module: create interactive quiz game with pure JavaScript in 3 hours"
+        "Achieving pixel-perfect results in CSS Battle challenges, highlighting attention to detail and advanced CSS expertise.",
+        "Aplying algorithmic thinking to dynamically navigate complex logic"
       ],
       "summary": ""
     },
     {
-      "title": "1st Place in LKS National Competition (Web Technologies) 2020",
-      "date": "Oct 2021",
-      "awarder": "Ministry of Education Indonesia",
+      "title": "14th Place in LKS Province Competition (IT Software Solutions for Business) 2024",
+      "date": "May 2024",
+      "awarder": "Ministry of Education West Java",
       "highlights": [
-        "Speedtest Module (complete several small tasks) in 2 hours",
-        "CMS Wordpress Module (create theme and plugins) in 2 hours",
-        "Server-side Module (using Laravel and VueJS) in 5 hours",
-        "Client-side Module (create HTML5 game) in 4 hours"
+        "Developed a robust desktop application using C# .NET and SQL Server in Visual Studio, implementing multi-tier architecture for scalable business solutions and seamless database integration.",
+        "Engineered an intuitive mobile application with Java in Android Studio, leveraging object-oriented programming principles to optimize user workflows"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Top 60 in Liga SMK 2023",
+      "date": "Dec 2023",
+      "awarder": "AlKademi",
+      "highlights": [
+        "Translated visual concepts into pixel-perfect by slicing UI designs JPG into clean HTML and CSS code, ensuring cross-browser compatibility.",
+        "Solved 5 algorithmic challenges in competitive programming using JavaScript, focusing on time/space complexity optimization."
       ],
       "summary": ""
     }
@@ -123,25 +106,31 @@
     {
       "name": "Frontend",
       "level": "",
-      "keywords": ["Typescript", "Javascript", "React", "Vue", "Nuxt", "Next.js"]
+      "keywords": [
+        "Typescript",
+        "Javascript",
+        "Alpine.js",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+      ]
     },
     {
       "name": "Backend",
       "level": "",
       "keywords": [
         "Laravel",
-        "Go",
-        "Rust",
-        "Wordpress",
+        "Nestjs",
         "PostgreSQL",
-        "Redis",
+        "MySQL",
+        "SQLite",
         "MongoDB"
       ]
     },
     {
       "name": "Languages",
       "level": "",
-      "keywords": ["PHP", "Go", "Javascript", "TypeScript", "Rust"]
+      "keywords": ["PHP", "Javascript", "TypeScript"]
     }
   ],
   "languages": [
@@ -151,78 +140,58 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Intermediate"
     }
   ],
-  "interests": [
-    {
-      "name": "Books",
-      "keywords": ["Fiction", "Fantasy", "Self-improvement"]
-    }
-  ],
+  "interests": [],
   "references": [],
   "projects": [
     {
-      "name": "Mazer Dashboard Template",
-      "description": "Clean, Modern, Free, and Open-source Bootstrap 5 Admin Dashboard Template",
+      "name": "What's Going On (WGO)",
+      "description": "A realtime chat app",
       "highlights": [],
-      "keywords": [
-        "bootstrap",
-        "template",
-        "dashboard",
-        "admin-dashboard",
-        "free-template"
-      ],
-      "startDate": "Jan 2021",
-      "endDate": "Currently maintaining",
-      "githubUrl": "https://github.com/zuramai/mazer",
-      "url": "https://zuramai.github.io/mazer",
+      "keywords": ["react", "tailwind-css", "nestjs"],
+      "startDate": "Apr 2025",
+      "endDate": "Present",
+      "githubUrl": "https://github.com/riyandarmawan/wgo",
       "roles": ["Owner & Maintainer"],
       "type": "application",
       "entity": ""
     },
     {
-      "name": "Voler Admin Dashboard",
-      "description": "The First Bootstrap 5 Admin Dashboard Template",
+      "name": "MyCoffee",
+      "description": "Company profile website",
       "highlights": [],
-      "keywords": [
-        "bootstrap",
-        "template",
-        "dashboard",
-        "admin-dashboard",
-        "free-template"
-      ],
-      "startDate": "Aug 2021",
-      "endDate": "Currently maintaining",
-      "githubUrl": "https://github.com/zuramai/voler",
-      "url": "https://zuramai.github.io/voler/",
-      "roles": ["Owner & Maintainer"],
+      "keywords": ["codeigniter-4", "bootstrap"],
+      "startDate": "Oct 2023",
+      "endDate": "Dec 2023",
+      "githubUrl": "https://github.com/riyandarmawan/company-profile",
+      "roles": ["Owner"],
       "type": "application",
       "entity": ""
     },
     {
-      "name": "Starback.js",
-      "description": "Create a beautiful star falling background with starback.js",
+      "name": "List of Lit",
+      "description": "The right place to find any book description you want!",
       "highlights": [],
-      "keywords": ["canvas", "css-animation", "background-animation"],
-      "startDate": "Aug 2021",
-      "endDate": "Currently maintaining",
-      "githubUrl": "https://github.com/zuramai/starback.js",
-      "url": "https://zuramai.github.io/starback.js",
-      "roles": ["Owner & Maintainer"],
+      "keywords": ["react", "tailwind-css", "google-books-api"],
+      "startDate": "Jul 2021",
+      "endDate": "Jul 2021",
+      "githubUrl": "https://github.com/riyandarmawan/list-of-lit",
+      "url": "https://riyandarmawan.github.io/list-of-lit/",
+      "roles": ["Owner"],
       "type": "application",
       "entity": ""
     },
     {
-      "name": "Hugoblog",
-      "description": "Hugoblog is responsive, simple, and clean that very fit for your personal blog based on Hugo Theme Static Site Generator (SSG)",
+      "name": "ruangbaca",
+      "description": "A library app to help librarian and students to borrowing and returning book at school",
       "highlights": [],
-      "keywords": ["canvas", "css-animation", "background-animation"],
-      "startDate": "Mar 2021",
-      "endDate": "Currently maintaining",
-      "githubUrl": "https://github.com/zuramai/hugoblog",
-      "url": "https://zuramai.github.io/hugoblog",
-      "roles": ["Owner & Maintainer"],
+      "keywords": ["tailwind-css", "laravel", "alpine-js"],
+      "startDate": "Aug 2024",
+      "endDate": "Oct 2024",
+      "githubUrl": "https://github.com/riyandarmawan/ruangbaca",
+      "roles": ["Owner"],
       "type": "application",
       "entity": ""
     }
