@@ -131,7 +131,7 @@
       "name": "Languages",
       "level": "",
       "keywords": ["PHP", "Javascript", "TypeScript"]
-    }
+    },
     {
       "name": "Tools",
       "level": "",
@@ -142,9 +142,9 @@
         "Visual Studio Code",
         "Vim",
         "Neovim",
-        "Linux",
+        "Linux"
       ]
-    },
+    }
   ],
   "languages": [
     {
