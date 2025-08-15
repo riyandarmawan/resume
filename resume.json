@@ -160,13 +160,13 @@
   "references": [],
   "projects": [
     {
-      "name": "What's Going On (WGO)",
-      "description": "A realtime chat app",
+      "name": "What's Going On (WGO) API",
+      "description": "A realtime chat app api build in top of NestJS",
       "highlights": [],
-      "keywords": ["react", "tailwind-css", "nestjs"],
-      "startDate": "Apr 2025",
+      "keywords": ["nestjs", "prisma", "socket.io", "supabase"],
+      "startDate": "Jul 2025",
       "endDate": "Present",
-      "githubUrl": "https://github.com/riyandarmawan/wgo",
+      "githubUrl": "https://github.com/riyandarmawan/wgo-api",
       "roles": ["Owner & Maintainer"],
       "type": "application",
       "entity": ""
