@@ -57,6 +57,16 @@
   ],
   "education": [
     {
+      "institution": "Universitas Pendidikan Indonesia",
+      "url": "https://upi.edu/",
+      "area": "Mechatronics and Artificial Intelligence",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2025",
+      "endDate": "2029",
+      "score": "",
+      "courses": []
+    }
+    {
       "institution": "SMKS Bina Kerja Purwakarta",
       "url": "https://smkbinakerjapwk.sch.id/",
       "area": "Software Engineering",
@@ -65,7 +75,7 @@
       "endDate": "2025",
       "score": "87.22 / 100",
       "courses": []
-    }
+    },
   ],
   "volunteer": [],
   "awards": [
