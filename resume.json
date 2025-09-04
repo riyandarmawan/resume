@@ -140,7 +140,11 @@
     {
       "name": "Languages",
       "level": "",
-      "keywords": ["PHP", "Javascript", "TypeScript"]
+      "keywords": [
+        "PHP",
+        "Javascript",
+        "TypeScript"
+      ]
     },
     {
       "name": "Tools",
@@ -171,13 +175,20 @@
   "projects": [
     {
       "name": "What's Going On (WGO) API",
-      "description": "A realtime chat app api",
+      "description": "A realtime chat app api build in top of NestJS",
       "highlights": [],
-      "keywords": ["nestjs", "prisma", "socket.io", "supabase"],
+      "keywords": [
+        "nestjs",
+        "prisma",
+        "socket.io",
+        "supabase"
+      ],
       "startDate": "Jul 2025",
       "endDate": "Present",
       "githubUrl": "https://github.com/riyandarmawan/wgo-api",
-      "roles": ["Owner & Maintainer"],
+      "roles": [
+        "Owner & Maintainer"
+      ],
       "type": "application",
       "entity": ""
     },
@@ -185,11 +196,16 @@
       "name": "MyCoffee",
       "description": "Company profile website",
       "highlights": [],
-      "keywords": ["codeigniter-4", "bootstrap"],
+      "keywords": [
+        "codeigniter-4",
+        "bootstrap"
+      ],
       "startDate": "Oct 2023",
       "endDate": "Dec 2023",
       "githubUrl": "https://github.com/riyandarmawan/company-profile",
-      "roles": ["Owner"],
+      "roles": [
+        "Owner"
+      ],
       "type": "application",
       "entity": ""
     },
@@ -197,12 +213,18 @@
       "name": "List of Lit",
       "description": "The right place to find any book description you want!",
       "highlights": [],
-      "keywords": ["react", "tailwind-css", "google-books-api"],
+      "keywords": [
+        "react",
+        "tailwind-css",
+        "google-books-api"
+      ],
       "startDate": "Jul 2021",
       "endDate": "Jul 2021",
       "githubUrl": "https://github.com/riyandarmawan/list-of-lit",
       "url": "https://riyandarmawan.github.io/list-of-lit/",
-      "roles": ["Owner"],
+      "roles": [
+        "Owner"
+      ],
       "type": "application",
       "entity": ""
     },
@@ -210,11 +232,17 @@
       "name": "Ruang Baca",
       "description": "A library app to help librarian and students to borrowing and returning book at school",
       "highlights": [],
-      "keywords": ["tailwind-css", "laravel", "alpine-js"],
+      "keywords": [
+        "tailwind-css",
+        "laravel",
+        "alpine-js"
+      ],
       "startDate": "Aug 2024",
       "endDate": "Oct 2024",
       "githubUrl": "https://github.com/riyandarmawan/ruang-baca",
-      "roles": ["Owner"],
+      "roles": [
+        "Owner"
+      ],
       "type": "application",
       "entity": ""
     }
